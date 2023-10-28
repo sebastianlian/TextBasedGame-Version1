@@ -1,0 +1,6 @@
+1~false~1InsideSafeHouse~0,6,2,0
+2~false~2OutsideSafeHouse~1,3,4,0
+3~false~3Street~6,0,5,2
+4~false~4Forest~2,5,0,0
+5~false~5AbandonStore~3,0,0,4
+6~false~6Bridge~0,0,3,1
